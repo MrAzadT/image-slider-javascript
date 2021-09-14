@@ -12,7 +12,6 @@ let imgId = document.getElementById("imgId");
 setInterval(() => {
   if (count >= img.length) count = 0;
   const imgUrl = img[count];
-  console.log(imgUrl);
   imgId.setAttribute("src", imgUrl);
   count++;
 }, 1500);
