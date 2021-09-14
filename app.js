@@ -5,7 +5,7 @@ const img = [
   "img-4.jpg",
   "img-5.jpg",
   "img-6.jpg",
-  "img-6.jpg",
+  "img-7.jpg",
 ];
 
 let count = 0;
